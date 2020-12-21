@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wadhwaniv1/NoobieReactjs/static/css/main.a007d633.chunk.css",
+    "main.js": "/wadhwaniv1/NoobieReactjs/static/js/main.0766d199.chunk.js",
+    "main.js.map": "/wadhwaniv1/NoobieReactjs/static/js/main.0766d199.chunk.js.map",
+    "runtime-main.js": "/wadhwaniv1/NoobieReactjs/static/js/runtime-main.fbfe4935.js",
+    "runtime-main.js.map": "/wadhwaniv1/NoobieReactjs/static/js/runtime-main.fbfe4935.js.map",
+    "static/js/2.52144f1e.chunk.js": "/wadhwaniv1/NoobieReactjs/static/js/2.52144f1e.chunk.js",
+    "static/js/2.52144f1e.chunk.js.map": "/wadhwaniv1/NoobieReactjs/static/js/2.52144f1e.chunk.js.map",
+    "index.html": "/wadhwaniv1/NoobieReactjs/index.html",
+    "static/css/main.a007d633.chunk.css.map": "/wadhwaniv1/NoobieReactjs/static/css/main.a007d633.chunk.css.map",
+    "static/js/2.52144f1e.chunk.js.LICENSE.txt": "/wadhwaniv1/NoobieReactjs/static/js/2.52144f1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbfe4935.js",
+    "static/js/2.52144f1e.chunk.js",
+    "static/css/main.a007d633.chunk.css",
+    "static/js/main.0766d199.chunk.js"
+  ]
+}
